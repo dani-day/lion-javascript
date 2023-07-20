@@ -8,7 +8,6 @@ let value = Boolean(b);
 
 // 논리곱(그리고) 연산자
 let AandB = a && b;
-console.log(AandB);
 
 // 논리합(또는) 연산자
 let AorB = a || b;
